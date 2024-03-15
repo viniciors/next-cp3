@@ -1,0 +1,18 @@
+header{
+    background-color: black;
+    align-items: center;
+    padding: 3.5rem;
+}
+
+header h1 {
+    color: white;
+    font-size: 2.4rem;
+}
+
+header .logo{
+    margin-right: 30%;
+}
+
+
+
+

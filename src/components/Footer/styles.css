@@ -1,0 +1,12 @@
+footer {
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 0;
+    background-color: black;
+}
+
+footer p {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: white;
+}

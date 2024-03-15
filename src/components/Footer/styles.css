@@ -3,6 +3,7 @@ footer {
     justify-content: center;
     padding: 2rem 0;
     background-color: black;
+    text-align: center;
 }
 
 footer p {

@@ -5,7 +5,7 @@ const Header = () => {
     return(
         <>
         <header className="flex">
-            <Image className="icone"src="/icone.jpg" alt="Logo da empresa" width={180} height={200}/>
+            <Image className="icon"src="/icon.jpg" alt="Logo da empresa" width={180} height={200}/>
             <h1>Os melhores filmes estão aqui</h1>
             
         </header>
